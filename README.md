@@ -28,12 +28,6 @@ Automated Linux VM provisioning using Proxmox, Cloud-Init, CoreDNS, and NXLog.
 Repository:
 https://github.com/AyodeleSowunmi/proxmox-golden-image-automation
 
-### Homelab Documentation
-
-Infrastructure documentation covering DNS automation, PKI, observability, monitoring, and Linux platform engineering.
-
-Repository:
-https://github.com/AyodeleSowunmi/homelab-documentation
 
 ## Technical Content & Knowledge Sharing
 
