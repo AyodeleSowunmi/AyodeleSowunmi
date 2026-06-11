@@ -43,5 +43,4 @@ I have created technical content and tutorials focused on observability, log man
 ## Connect
 
 * LinkedIn: https://www.linkedin.com/in/ayodelesowunmi
-* Credly: https://www.credly.com
 
